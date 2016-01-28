@@ -22,11 +22,11 @@ Project that consolidate useful and common pattern implementations:
     	- Template Method
     	- Visitor
     - Structural
-    	- Adapter
-    	- Bridge
-    	- Composite
+    	- Adapter (Done)
+    	- Bridge (Done)
+    	- Composite (Done)
     	- Decorator
-    	- Facade
+    	- Facade (Done)
     	- Flyweight
     	- Proxy
 -  Integration
