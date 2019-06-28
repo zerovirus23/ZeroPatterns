@@ -1,9 +1,9 @@
-#Zero Patterns
+#Common Patterns in Software Development
 
 Project that consolidate useful and common pattern implementations:
 
 -  Architecture
--  Design
+-  Design  
     - Creational
     	- Abstract Factory
     	- Builder
